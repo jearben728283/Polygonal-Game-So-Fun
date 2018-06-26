@@ -12,7 +12,6 @@ Subsequent n-1 steps operate as follows:
 
 Finally, all sides are deleted and the game ends. The score of the game is the integer value of the remaining vertices.
 
-Question: For a given polygon, calculate the highest score.
 
 Tel:+442076368954
 
